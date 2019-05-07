@@ -1,0 +1,14 @@
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\bin\Debug\1erModeloParcial.exe.config
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\bin\Debug\1erModeloParcial.exe
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\bin\Debug\1erModeloParcial.pdb
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.csprojAssemblyReference.cache
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.exe
+E:\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\bin\Debug\1erModeloParcial.exe.config
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\bin\Debug\1erModeloParcial.exe
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\bin\Debug\1erModeloParcial.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.exe
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\ModiaAgustin\1erModeloParcial\obj\Debug\1erModeloParcial.pdb

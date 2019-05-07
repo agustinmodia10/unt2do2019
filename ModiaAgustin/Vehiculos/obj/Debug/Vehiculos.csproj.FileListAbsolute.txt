@@ -1,0 +1,18 @@
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\bin\Debug\Vehiculos.dll
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.dll
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.pdb
+C:\Users\alumno\Desktop\Laboratorio-II-master\Muruchi.Rosa\Vehiculos\bin\Debug\Vehiculos.dll
+C:\Users\alumno\Desktop\Laboratorio-II-master\Muruchi.Rosa\Vehiculos\bin\Debug\Vehiculos.pdb
+C:\Users\alumno\Desktop\Laboratorio-II-master\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio-II-master\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio-II-master\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.dll
+C:\Users\alumno\Desktop\Laboratorio-II-master\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.pdb
+E:\unt 2do 2019\ModiaAgustin\Vehiculos\bin\Debug\Vehiculos.dll
+E:\unt 2do 2019\ModiaAgustin\Vehiculos\bin\Debug\Vehiculos.pdb
+E:\unt 2do 2019\ModiaAgustin\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+E:\unt 2do 2019\ModiaAgustin\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\ModiaAgustin\Vehiculos\obj\Debug\Vehiculos.dll
+E:\unt 2do 2019\ModiaAgustin\Vehiculos\obj\Debug\Vehiculos.pdb

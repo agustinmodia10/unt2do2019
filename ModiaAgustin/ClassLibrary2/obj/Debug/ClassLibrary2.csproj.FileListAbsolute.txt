@@ -1,0 +1,5 @@
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

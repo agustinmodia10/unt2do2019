@@ -1,0 +1,30 @@
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\WF.Palete.Tempera clase 07.exe.config
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\WF.Palete.Tempera clase 07.exe
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\WF.Palete.Tempera clase 07.pdb
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\Entidades Temperas clase 06.dll
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\Entidades Temperas clase 06.pdb
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csprojAssemblyReference.cache
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.Properties.Resources.resources
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.WFTempera.resources
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csproj.GenerateResource.cache
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csproj.CopyComplete
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.exe
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.pdb
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.WFPaleta.resources
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\WF.Palete.Tempera clase 07.exe.config
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\WF.Palete.Tempera clase 07.exe
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\WF.Palete.Tempera clase 07.pdb
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\Entidades Temperas clase 06.dll
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\bin\Debug\Entidades Temperas clase 06.pdb
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.WFPaleta.resources
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.Properties.Resources.resources
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.WFTempera.resources
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.csproj.CopyComplete
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.exe
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera clase 07.pdb
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.WFPrincipsl.resources
+E:\unt 2do 2019\ModiaAgustin\WF.Palete.Tempera clase 07\obj\Debug\WF.Palete.Tempera_clase_07.WFCantTemp.resources

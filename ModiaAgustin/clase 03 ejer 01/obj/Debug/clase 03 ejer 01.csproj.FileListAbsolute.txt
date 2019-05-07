@@ -1,0 +1,46 @@
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe.config
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.pdb
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.exe
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.pdb
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.dll
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.pdb
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csprojAssemblyReference.cache
+D:\VisualStudio\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CopyComplete
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe.config
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CopyComplete
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.exe
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\ClassLibrary1.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\clase 03 ejer 01\bin\Debug\ClassLibrary1.pdb
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe.config
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.pdb
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.dll
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.pdb
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csprojAssemblyReference.cache
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CoreCompileInputs.cache
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CopyComplete
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.exe
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.pdb
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\ClassLibrary2.dll
+I:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\ClassLibrary2.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe.config
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.exe
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\clase 03 ejer 01.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\ClassLibrary2.dll
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.dll
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\ClassLibrary2.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\bin\Debug\Libreriaclaseo03.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csprojAssemblyReference.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.csproj.CopyComplete
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.exe
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase 03 ejer 01\obj\Debug\clase 03 ejer 01.pdb

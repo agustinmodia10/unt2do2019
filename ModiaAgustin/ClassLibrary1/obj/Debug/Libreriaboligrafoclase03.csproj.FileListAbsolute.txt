@@ -1,0 +1,5 @@
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\ClassLibrary1\obj\Debug\Libreriaboligrafoclase03.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

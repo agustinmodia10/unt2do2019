@@ -1,0 +1,20 @@
+E:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\testclase06.exe.config
+E:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\testclase06.exe
+E:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\testclase06.pdb
+E:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\Entidades Temperas clase 06.dll
+E:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\Entidades Temperas clase 06.pdb
+E:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.csprojAssemblyReference.cache
+E:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.csproj.CopyComplete
+E:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.exe
+E:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.pdb
+I:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\testclase06.exe.config
+I:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\testclase06.exe
+I:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\testclase06.pdb
+I:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\Entidades Temperas clase 06.dll
+I:\unt 2do 2019\ModiaAgustin\testclase06\bin\Debug\Entidades Temperas clase 06.pdb
+I:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.csprojAssemblyReference.cache
+I:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.csproj.CoreCompileInputs.cache
+I:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.csproj.CopyComplete
+I:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.exe
+I:\unt 2do 2019\ModiaAgustin\testclase06\obj\Debug\testclase06.pdb

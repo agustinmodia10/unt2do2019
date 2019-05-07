@@ -1,0 +1,5 @@
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaboligrafo\bin\Debug\Libreriaboligrafo.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaboligrafo\bin\Debug\Libreriaboligrafo.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaboligrafo\obj\Debug\Libreriaboligrafo.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaboligrafo\obj\Debug\Libreriaboligrafo.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaboligrafo\obj\Debug\Libreriaboligrafo.pdb

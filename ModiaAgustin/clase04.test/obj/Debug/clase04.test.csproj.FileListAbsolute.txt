@@ -1,0 +1,10 @@
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\bin\Debug\clase04.test.exe.config
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\bin\Debug\clase04.test.exe
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\bin\Debug\clase04.test.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\bin\Debug\clase04Library.dll
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\bin\Debug\clase04Library.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\obj\Debug\clase04.test.csprojAssemblyReference.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\obj\Debug\clase04.test.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\obj\Debug\clase04.test.csproj.CopyComplete
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\obj\Debug\clase04.test.exe
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.test\obj\Debug\clase04.test.pdb

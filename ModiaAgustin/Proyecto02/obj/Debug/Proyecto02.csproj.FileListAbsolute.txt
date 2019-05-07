@@ -1,0 +1,7 @@
+D:\VisualStudio\ModiaAgustin\Proyecto02\bin\Debug\Proyecto02.exe.config
+D:\VisualStudio\ModiaAgustin\Proyecto02\bin\Debug\Proyecto02.exe
+D:\VisualStudio\ModiaAgustin\Proyecto02\bin\Debug\Proyecto02.pdb
+D:\VisualStudio\ModiaAgustin\Proyecto02\obj\Debug\Proyecto02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ModiaAgustin\Proyecto02\obj\Debug\Proyecto02.exe
+D:\VisualStudio\ModiaAgustin\Proyecto02\obj\Debug\Proyecto02.pdb
+D:\VisualStudio\ModiaAgustin\Proyecto02\obj\Debug\Proyecto02.csprojAssemblyReference.cache

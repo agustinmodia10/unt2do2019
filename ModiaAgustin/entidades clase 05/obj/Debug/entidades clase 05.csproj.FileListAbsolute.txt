@@ -1,0 +1,12 @@
+E:\unt 2do 2019\ModiaAgustin\entidades clase 05\bin\Debug\entidades clase 05.dll
+E:\unt 2do 2019\ModiaAgustin\entidades clase 05\bin\Debug\entidades clase 05.pdb
+E:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.csprojAssemblyReference.cache
+E:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.dll
+E:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.pdb
+I:\unt 2do 2019\ModiaAgustin\entidades clase 05\bin\Debug\entidades clase 05.dll
+I:\unt 2do 2019\ModiaAgustin\entidades clase 05\bin\Debug\entidades clase 05.pdb
+I:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.csprojAssemblyReference.cache
+I:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.csproj.CoreCompileInputs.cache
+I:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.dll
+I:\unt 2do 2019\ModiaAgustin\entidades clase 05\obj\Debug\entidades clase 05.pdb

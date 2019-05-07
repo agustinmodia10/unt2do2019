@@ -1,0 +1,6 @@
+D:\VisualStudio\ModiaAgustin\Proyecto 03\obj\Debug\Proyecto03.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ModiaAgustin\Proyecto 03\bin\Debug\Proyecto 03.exe.config
+D:\VisualStudio\ModiaAgustin\Proyecto 03\bin\Debug\Proyecto 03.exe
+D:\VisualStudio\ModiaAgustin\Proyecto 03\bin\Debug\Proyecto 03.pdb
+D:\VisualStudio\ModiaAgustin\Proyecto 03\obj\Debug\Proyecto 03.exe
+D:\VisualStudio\ModiaAgustin\Proyecto 03\obj\Debug\Proyecto 03.pdb

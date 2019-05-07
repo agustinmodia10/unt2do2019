@@ -1,0 +1,1 @@
+﻿public enum ETipoManada {unica, mixta}

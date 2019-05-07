@@ -1,0 +1,12 @@
+D:\VisualStudio\ModiaAgustin\Libreriaclaseo03\bin\Debug\Libreriaclaseo03.dll
+D:\VisualStudio\ModiaAgustin\Libreriaclaseo03\bin\Debug\Libreriaclaseo03.pdb
+D:\VisualStudio\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.csprojAssemblyReference.cache
+D:\VisualStudio\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.dll
+D:\VisualStudio\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaclaseo03\bin\Debug\Libreriaclaseo03.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaclaseo03\bin\Debug\Libreriaclaseo03.pdb
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.dll
+C:\Users\elmolelaptop\Desktop\unt 2do 2019\clase 02 y 03\ModiaAgustin\Libreriaclaseo03\obj\Debug\Libreriaclaseo03.pdb

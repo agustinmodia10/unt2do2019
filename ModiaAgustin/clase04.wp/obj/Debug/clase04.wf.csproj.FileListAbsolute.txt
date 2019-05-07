@@ -1,0 +1,13 @@
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\bin\Debug\clase04.wp.exe.config
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\bin\Debug\clase04.wp.exe
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\bin\Debug\clase04.wp.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wf.csprojAssemblyReference.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wp.fmrcosa.resources
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wp.Properties.Resources.resources
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wf.csproj.GenerateResource.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wf.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wp.exe
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wp.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\bin\Debug\clase04Library.dll
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\bin\Debug\clase04Library.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04.wp\obj\Debug\clase04.wf.csproj.CopyComplete

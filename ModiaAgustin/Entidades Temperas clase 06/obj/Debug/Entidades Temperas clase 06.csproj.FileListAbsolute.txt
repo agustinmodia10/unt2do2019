@@ -1,0 +1,18 @@
+E:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\bin\Debug\Entidades Temperas clase 06.dll
+E:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\bin\Debug\Entidades Temperas clase 06.pdb
+E:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.csprojAssemblyReference.cache
+E:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.dll
+E:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.pdb
+I:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\bin\Debug\Entidades Temperas clase 06.dll
+I:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\bin\Debug\Entidades Temperas clase 06.pdb
+I:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.csprojAssemblyReference.cache
+I:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.csproj.CoreCompileInputs.cache
+I:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.dll
+I:\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.pdb
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\bin\Debug\Entidades Temperas clase 06.dll
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\bin\Debug\Entidades Temperas clase 06.pdb
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.dll
+C:\Users\pc\Desktop\utn 2\unt 2do 2019\ModiaAgustin\Entidades Temperas clase 06\obj\Debug\Entidades Temperas clase 06.pdb

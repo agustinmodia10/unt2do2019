@@ -1,0 +1,7 @@
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\bin\Debug\clase 02 ejer 01.exe.config
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\bin\Debug\clase 02 ejer 01.exe
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\bin\Debug\clase 02 ejer 01.pdb
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\obj\Debug\clase 02 ejer 01.csprojAssemblyReference.cache
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\obj\Debug\clase 02 ejer 01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\obj\Debug\clase 02 ejer 01.exe
+D:\VisualStudio\ModiaAgustin\clase 02 ejer 01\obj\Debug\clase 02 ejer 01.pdb

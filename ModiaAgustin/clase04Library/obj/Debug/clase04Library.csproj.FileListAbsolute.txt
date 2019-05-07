@@ -1,0 +1,6 @@
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04Library\bin\Debug\clase04Library.dll
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04Library\bin\Debug\clase04Library.pdb
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04Library\obj\Debug\clase04Library.csprojAssemblyReference.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04Library\obj\Debug\clase04Library.csproj.CoreCompileInputs.cache
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04Library\obj\Debug\clase04Library.dll
+E:\unt 2do 2019\clase 02 y 03 realizado\ModiaAgustin\clase04Library\obj\Debug\clase04Library.pdb
